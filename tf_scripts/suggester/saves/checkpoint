@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/vic/Workspace/MetisCBR/tf_scripts/suggester/saves/save49"
+all_model_checkpoint_paths: "/home/vic/Workspace/MetisCBR/tf_scripts/suggester/saves/save49"
